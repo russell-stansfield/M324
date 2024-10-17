@@ -2,9 +2,9 @@ import { generate } from 'random-words';
 import chalk from 'chalk';
 
 export const sum = (a, b) => {
-  return a + b;
+                                      return a + b;
 };
-
+const wordof = "no"
 const word = generate();
 console.log(
   `Hello! 
